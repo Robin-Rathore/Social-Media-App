@@ -1,0 +1,14 @@
+{
+  "name": "social_app",
+  "version": "1.0.0",
+  "description": "social web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/Robin-Rathore/Social-Media-App.git",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
