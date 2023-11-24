@@ -2,9 +2,10 @@
   "name": "social_app",
   "version": "1.0.0",
   "description": "social web app",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.js"
   },
   "author": "https://github.com/Robin-Rathore/Social-Media-App.git",
   "license": "ISC",
